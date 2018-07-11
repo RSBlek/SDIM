@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.0.0">
+<eagle version="9.0.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -11546,6 +11546,11 @@ Source: AVX .. aphvc.pdf</description>
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
+<<<<<<< HEAD
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25850/1"/>
+=======
 </connects>
 <package3dinstances>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:25850/1"/>
@@ -11561,143 +11566,253 @@ Source: AVX .. aphvc.pdf</description>
 </connects>
 <package3dinstances>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:25857/1"/>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 </package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
+<<<<<<< HEAD
+<device name="E45-18AXIAL" package="E45-18">
+=======
 <device name="E45-21AXIAL" package="E45-21">
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
+<<<<<<< HEAD
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25857/1"/>
+=======
 <package3dinstance package3d_urn="urn:adsk.eagle:package:25852/1"/>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 </package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
+<<<<<<< HEAD
+<device name="E45-21AXIAL" package="E45-21">
+=======
 <device name="E45-22AXIAL" package="E45-22">
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
+<<<<<<< HEAD
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25852/1"/>
+=======
 <package3dinstance package3d_urn="urn:adsk.eagle:package:25853/1"/>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 </package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
+<<<<<<< HEAD
+<device name="E45-22AXIAL" package="E45-22">
+=======
 <device name="E45-25AXIAL" package="E45-25">
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
+<<<<<<< HEAD
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25853/1"/>
+=======
 <package3dinstance package3d_urn="urn:adsk.eagle:package:25856/1"/>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 </package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
+<<<<<<< HEAD
+<device name="E45-25AXIAL" package="E45-25">
+=======
 <device name="E5-10.5" package="E5-10,5">
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
+<<<<<<< HEAD
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25856/1"/>
+=======
 <package3dinstance package3d_urn="urn:adsk.eagle:package:25854/1"/>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 </package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
+<<<<<<< HEAD
+<device name="E5-10.5" package="E5-10,5">
+=======
 <device name="E5-13" package="E5-13">
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
+<<<<<<< HEAD
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25854/1"/>
+=======
 <package3dinstance package3d_urn="urn:adsk.eagle:package:25855/1"/>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 </package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
+<<<<<<< HEAD
+<device name="E5-13" package="E5-13">
+=======
 <device name="E5-4" package="E5-4">
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
+<<<<<<< HEAD
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25855/1"/>
+=======
 <package3dinstance package3d_urn="urn:adsk.eagle:package:25859/1"/>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 </package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
+<<<<<<< HEAD
+<device name="E5-4" package="E5-4">
+=======
 <device name="E5-5" package="E5-5">
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
+<<<<<<< HEAD
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25859/1"/>
+=======
 <package3dinstance package3d_urn="urn:adsk.eagle:package:25868/1"/>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 </package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
+<<<<<<< HEAD
+<device name="E5-5" package="E5-5">
+=======
 <device name="E5-6" package="E5-6">
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
+<<<<<<< HEAD
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25868/1"/>
+=======
 <package3dinstance package3d_urn="urn:adsk.eagle:package:25858/1"/>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 </package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
+<<<<<<< HEAD
+<device name="E5-6" package="E5-6">
+=======
 <device name="E5-8.5" package="E5-8,5">
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
+<<<<<<< HEAD
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25858/1"/>
+=======
 <package3dinstance package3d_urn="urn:adsk.eagle:package:25860/1"/>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 </package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
+<<<<<<< HEAD
+<device name="E5-8.5" package="E5-8,5">
+=======
 <device name="E50-25AXIAL" package="E50-25">
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
+<<<<<<< HEAD
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25860/1"/>
+=======
 <package3dinstance package3d_urn="urn:adsk.eagle:package:25862/1"/>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 </package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
+<<<<<<< HEAD
+<device name="E50-25AXIAL" package="E50-25">
+=======
 <device name="E50-30AXIAL" package="E50-30">
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
 </connects>
 <package3dinstances>
+<<<<<<< HEAD
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25862/1"/>
+=======
 <package3dinstance package3d_urn="urn:adsk.eagle:package:25863/1"/>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 </package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
 </device>
+<<<<<<< HEAD
+<device name="E50-30AXIAL" package="E50-30">
+=======
+<device name="E55-25AXIAL" package="E55-25">
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
+<connects>
+<connect gate="G$1" pin="+" pad="+"/>
+<connect gate="G$1" pin="-" pad="-"/>
+</connects>
+<package3dinstances>
+<<<<<<< HEAD
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25863/1"/>
+=======
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25865/1"/>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<<<<<<< HEAD
 <device name="E55-25AXIAL" package="E55-25">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
@@ -11891,6 +12006,211 @@ Source: AVX .. aphvc.pdf</description>
 </technologies>
 </device>
 <device name="139CLL-3R" package="139CLL-3R">
+=======
+<device name="E55-30AXIAL" package="E55-30">
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
+<connects>
+<connect gate="G$1" pin="+" pad="+"/>
+<connect gate="G$1" pin="-" pad="-"/>
+</connects>
+<package3dinstances>
+<<<<<<< HEAD
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25884/1"/>
+=======
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25864/1"/>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<<<<<<< HEAD
+<device name="139CLL-3W" package="139CLL-3W">
+=======
+<device name="E5-9VAXIAL" package="E5R">
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
+<connects>
+<connect gate="G$1" pin="+" pad="+"/>
+<connect gate="G$1" pin="-" pad="-"/>
+</connects>
+<package3dinstances>
+<<<<<<< HEAD
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25882/1"/>
+=======
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25866/1"/>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<<<<<<< HEAD
+<device name="140CLH-0810" package="140CLH-0810">
+=======
+<device name="E7.5-16" package="E7,5-16">
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
+<connects>
+<connect gate="G$1" pin="+" pad="+"/>
+<connect gate="G$1" pin="-" pad="-"/>
+</connects>
+<package3dinstances>
+<<<<<<< HEAD
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25881/1"/>
+=======
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25867/1"/>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<<<<<<< HEAD
+=======
+<device name="E7.5-18" package="E7,5-18">
+<connects>
+<connect gate="G$1" pin="+" pad="+"/>
+<connect gate="G$1" pin="-" pad="-"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25870/1"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="E10-20" package="EB20D">
+<connects>
+<connect gate="G$1" pin="+" pad="+"/>
+<connect gate="G$1" pin="-" pad="-"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25869/1"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="E10-22.5" package="EB22,5D">
+<connects>
+<connect gate="G$1" pin="+" pad="+"/>
+<connect gate="G$1" pin="-" pad="-"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25879/1"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="E10-25" package="EB25D">
+<connects>
+<connect gate="G$1" pin="+" pad="+"/>
+<connect gate="G$1" pin="-" pad="-"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25878/1"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="E10-30" package="EB30D">
+<connects>
+<connect gate="G$1" pin="+" pad="+"/>
+<connect gate="G$1" pin="-" pad="-"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25871/1"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="E10-35" package="EB35D">
+<connects>
+<connect gate="G$1" pin="+" pad="+"/>
+<connect gate="G$1" pin="-" pad="-"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25872/1"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="085CS-1R" package="085CS_1R">
+<connects>
+<connect gate="G$1" pin="+" pad="+"/>
+<connect gate="G$1" pin="-" pad="-"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25874/1"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="085CS-1W" package="085CS_1W">
+<connects>
+<connect gate="G$1" pin="+" pad="+"/>
+<connect gate="G$1" pin="-" pad="-"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25873/1"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="085CS-1AR" package="085CS_1AR">
+<connects>
+<connect gate="G$1" pin="+" pad="+"/>
+<connect gate="G$1" pin="-" pad="-"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25875/1"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="085CS-1AW" package="085CS_1AW">
+<connects>
+<connect gate="G$1" pin="+" pad="+"/>
+<connect gate="G$1" pin="-" pad="-"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25876/1"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="139CLL-2R" package="139CLL-2R">
+<connects>
+<connect gate="G$1" pin="+" pad="+"/>
+<connect gate="G$1" pin="-" pad="-"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25877/1"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="139CLL-2W" package="139CLL-2W">
+<connects>
+<connect gate="G$1" pin="+" pad="+"/>
+<connect gate="G$1" pin="-" pad="-"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25880/1"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="139CLL-3R" package="139CLL-3R">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
 <connect gate="G$1" pin="-" pad="-"/>
@@ -11926,6 +12246,7 @@ Source: AVX .. aphvc.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 <device name="140CLH-1010" package="140CLH-1010">
 <connects>
 <connect gate="G$1" pin="+" pad="+"/>
@@ -14745,6 +15066,10 @@ distributor Buerklin, 17G588</description>
 <part name="R2" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="0207/7" package3d_urn="urn:adsk.eagle:package:25942/1" value="4000"/>
 <part name="R3" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="0207/7" package3d_urn="urn:adsk.eagle:package:25942/1" value="6000"/>
 <part name="C2" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-EU" device="025-025X050" package3d_urn="urn:adsk.eagle:package:26151/1" value="10nF"/>
+<<<<<<< HEAD
+=======
+<part name="R5" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="0207/7" package3d_urn="urn:adsk.eagle:package:25942/1" value="10000"/>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 </parts>
 <sheets>
 <sheet>
@@ -14774,7 +15099,12 @@ distributor Buerklin, 17G588</description>
 <instance part="R1" gate="G$1" x="-2.54" y="121.92" rot="R90"/>
 <instance part="R2" gate="G$1" x="-10.16" y="121.92" rot="R90"/>
 <instance part="R3" gate="G$1" x="-17.78" y="121.92" rot="R90"/>
+<<<<<<< HEAD
 <instance part="C2" gate="G$1" x="38.1" y="71.12"/>
+=======
+<instance part="C2" gate="G$1" x="40.64" y="71.12"/>
+<instance part="R5" gate="G$1" x="50.8" y="116.84" rot="R270"/>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 </instances>
 <busses>
 </busses>
@@ -14784,8 +15114,13 @@ distributor Buerklin, 17G588</description>
 <pinref part="IC" gate="G$1" pin="GND"/>
 <wire x1="-33.02" y1="60.96" x2="-15.24" y2="60.96" width="0.1524" layer="91"/>
 <wire x1="-15.24" y1="60.96" x2="35.56" y2="60.96" width="0.1524" layer="91"/>
+<<<<<<< HEAD
 <wire x1="35.56" y1="60.96" x2="38.1" y2="60.96" width="0.1524" layer="91"/>
 <wire x1="38.1" y1="60.96" x2="81.28" y2="60.96" width="0.1524" layer="91"/>
+=======
+<wire x1="35.56" y1="60.96" x2="40.64" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="40.64" y1="60.96" x2="81.28" y2="60.96" width="0.1524" layer="91"/>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 <wire x1="35.56" y1="78.74" x2="35.56" y2="60.96" width="0.1524" layer="91"/>
 <junction x="35.56" y="60.96"/>
 <pinref part="GNDIN" gate="1" pin="MP"/>
@@ -14794,8 +15129,13 @@ distributor Buerklin, 17G588</description>
 <wire x1="-15.24" y1="71.12" x2="-15.24" y2="60.96" width="0.1524" layer="91"/>
 <junction x="-15.24" y="60.96"/>
 <pinref part="C2" gate="G$1" pin="2"/>
+<<<<<<< HEAD
 <wire x1="38.1" y1="66.04" x2="38.1" y2="60.96" width="0.1524" layer="91"/>
 <junction x="38.1" y="60.96"/>
+=======
+<wire x1="40.64" y1="66.04" x2="40.64" y2="60.96" width="0.1524" layer="91"/>
+<junction x="40.64" y="60.96"/>
+>>>>>>> b3a4ae9dd7a8c15d256cdbdacb8d538f24912802
 </segment>
 </net>
 <net name="N$3" class="0">
@@ -14804,9 +15144,10 @@ distributor Buerklin, 17G588</description>
 <wire x1="-22.86" y1="134.62" x2="-17.78" y2="134.62" width="0.1524" layer="91"/>
 <wire x1="-17.78" y1="134.62" x2="-10.16" y2="134.62" width="0.1524" layer="91"/>
 <wire x1="-10.16" y1="134.62" x2="-2.54" y2="134.62" width="0.1524" layer="91"/>
-<wire x1="-2.54" y1="134.62" x2="17.78" y2="134.62" width="0.1524" layer="91"/>
-<wire x1="17.78" y1="134.62" x2="38.1" y2="134.62" width="0.1524" layer="91"/>
-<wire x1="38.1" y1="134.62" x2="60.96" y2="134.62" width="0.1524" layer="91"/>
+<wire x1="-2.54" y1="134.62" x2="20.32" y2="134.62" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="134.62" x2="38.1" y2="134.62" width="0.1524" layer="91"/>
+<wire x1="38.1" y1="134.62" x2="50.8" y2="134.62" width="0.1524" layer="91"/>
+<wire x1="50.8" y1="134.62" x2="60.96" y2="134.62" width="0.1524" layer="91"/>
 <wire x1="60.96" y1="134.62" x2="73.66" y2="134.62" width="0.1524" layer="91"/>
 <pinref part="IC" gate="G$1" pin="VCC+"/>
 <wire x1="35.56" y1="93.98" x2="38.1" y2="93.98" width="0.1524" layer="91"/>
@@ -14830,10 +15171,13 @@ distributor Buerklin, 17G588</description>
 <wire x1="-10.16" y1="127" x2="-10.16" y2="134.62" width="0.1524" layer="91"/>
 <pinref part="R3" gate="G$1" pin="2"/>
 <wire x1="-17.78" y1="127" x2="-17.78" y2="134.62" width="0.1524" layer="91"/>
-<pinref part="S1" gate="1" pin="12"/>
-<wire x1="15.24" y1="111.76" x2="17.78" y2="111.76" width="0.1524" layer="91"/>
-<wire x1="17.78" y1="111.76" x2="17.78" y2="134.62" width="0.1524" layer="91"/>
-<junction x="17.78" y="134.62"/>
+<pinref part="S1" gate="1" pin="7"/>
+<wire x1="15.24" y1="99.06" x2="20.32" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="99.06" x2="20.32" y2="134.62" width="0.1524" layer="91"/>
+<junction x="20.32" y="134.62"/>
+<pinref part="R5" gate="G$1" pin="1"/>
+<wire x1="50.8" y1="121.92" x2="50.8" y2="134.62" width="0.1524" layer="91"/>
+<junction x="50.8" y="134.62"/>
 </segment>
 </net>
 <net name="N$6" class="0">
@@ -14882,35 +15226,48 @@ distributor Buerklin, 17G588</description>
 <junction x="-2.54" y="86.36"/>
 </segment>
 </net>
-<net name="N$4" class="0">
-<segment>
-<pinref part="R1" gate="G$1" pin="1"/>
-<wire x1="-2.54" y1="116.84" x2="-2.54" y2="109.22" width="0.1524" layer="91"/>
-<pinref part="S1" gate="1" pin="2"/>
-<wire x1="-2.54" y1="109.22" x2="0" y2="109.22" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$8" class="0">
-<segment>
-<pinref part="R2" gate="G$1" pin="1"/>
-<wire x1="-10.16" y1="116.84" x2="-10.16" y2="101.6" width="0.1524" layer="91"/>
-<pinref part="S1" gate="1" pin="5"/>
-<wire x1="-10.16" y1="101.6" x2="0" y2="101.6" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$10" class="0">
-<segment>
-<pinref part="R3" gate="G$1" pin="1"/>
-<wire x1="-17.78" y1="116.84" x2="-17.78" y2="99.06" width="0.1524" layer="91"/>
-<pinref part="S1" gate="1" pin="6"/>
-<wire x1="-17.78" y1="99.06" x2="0" y2="99.06" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="N$2" class="0">
 <segment>
 <pinref part="Q1" gate="G$1" pin="G"/>
 <pinref part="R4" gate="G$1" pin="1"/>
-<wire x1="48.26" y1="86.36" x2="53.34" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="48.26" y1="86.36" x2="50.8" y2="86.36" width="0.1524" layer="91"/>
+<pinref part="R5" gate="G$1" pin="2"/>
+<wire x1="50.8" y1="86.36" x2="53.34" y2="86.36" width="0.1524" layer="91"/>
+<wire x1="50.8" y1="86.36" x2="50.8" y2="111.76" width="0.1524" layer="91"/>
+<junction x="50.8" y="86.36"/>
+</segment>
+</net>
+<net name="N$4" class="0">
+<segment>
+<pinref part="R1" gate="G$1" pin="1"/>
+<wire x1="-2.54" y1="116.84" x2="-2.54" y2="111.76" width="0.1524" layer="91"/>
+<pinref part="S1" gate="1" pin="1"/>
+<wire x1="-2.54" y1="111.76" x2="0" y2="111.76" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$5" class="0">
+<segment>
+<pinref part="R2" gate="G$1" pin="1"/>
+<wire x1="-10.16" y1="116.84" x2="-10.16" y2="109.22" width="0.1524" layer="91"/>
+<pinref part="S1" gate="1" pin="2"/>
+<wire x1="-10.16" y1="109.22" x2="0" y2="109.22" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$8" class="0">
+<segment>
+<pinref part="R3" gate="G$1" pin="1"/>
+<wire x1="-17.78" y1="116.84" x2="-15.24" y2="116.84" width="0.1524" layer="91"/>
+<wire x1="-15.24" y1="116.84" x2="-15.24" y2="101.6" width="0.1524" layer="91"/>
+<pinref part="S1" gate="1" pin="5"/>
+<wire x1="-15.24" y1="101.6" x2="0" y2="101.6" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$9" class="0">
+<segment>
+<pinref part="IC" gate="G$1" pin="CON"/>
+<wire x1="35.56" y1="81.28" x2="40.64" y2="81.28" width="0.1524" layer="91"/>
+<pinref part="C2" gate="G$1" pin="1"/>
+<wire x1="40.64" y1="81.28" x2="40.64" y2="73.66" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$5" class="0">
