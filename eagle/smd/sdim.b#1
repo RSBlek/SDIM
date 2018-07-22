@@ -72,8 +72,6 @@
 <wire x1="39.6875" y1="25.7175" x2="39.6875" y2="23.495" width="0" layer="20"/>
 <hole x="10.8975" y="25.5" drill="2.3"/>
 <hole x="31.0725" y="2.0275" drill="2.3"/>
-<text x="4.7625" y="21.59" size="1.778" layer="25">AB</text>
-<text x="9.8425" y="21.59" size="1.778" layer="25">SDIM</text>
 </plain>
 <libraries>
 <library name="resistor" urn="urn:adsk.eagle:library:348">
